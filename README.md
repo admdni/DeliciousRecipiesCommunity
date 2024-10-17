@@ -37,6 +37,5 @@ The app offers a powerful search feature for users to quickly find the recipe th
 
 - **Favorite Recipes**: You can save the recipes you like and use them as references for your future meal plans.
 
-## Getting Started
 
 
